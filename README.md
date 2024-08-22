@@ -29,28 +29,28 @@ I like to consider myself to be an inspired individual, who is energetic about n
 
 ## 🎖️ Featured Projects
 
-### Multimedia Server Hosting
+## Project Title: Multimedia Server Hosting 📽️
 #### Description: 
 In this ongoing project, I work to actively provide and maintain a multimedia distribution server for those around me. The goals for this project include optimization of streaming data, analysis of the hosted media, and maintaining the bandwidth of both the network hosting the server as well as the server itself.
 
 #### Study of:
-Windows, Wireshark, RDP, TCP & UDP, Network Configuration, Network Ports
+Windows, Wireshark, RDP, TCP & UDP, Network Configuration, Network Ports  
 
-
-### Personal-Use VPN
+## Project Title: Personal-Use VPN 🌐
 #### Description:
 To aid in maintenance for the multimedia server, I built and configured a personal VPN to provide access to the network hosting the server. This VPN provides the ability to monitor and access data that would normally only be visible on the local network that hosts the server.
 
 ### Study of:
-Arduino, Raspberry Pi, Raspbian, Linux, Wireguard, Wireshark
-
-
-### Dancing Isaac
+Arduino, Raspberry Pi, Raspbian, Linux, Wireguard, Wireshark  
+      
+## Project Title: Dancing Isaac 🕺
 #### Description:
 A smaller project that I have published is an applet for the Tidbyt IoT device. The program displays a graphic of a character named Isaac performing a dance from the video game they originate from. This project introduced me to the Starlark programming language.
 
 ### Study of:
 Starlark, Tidbyt, IoT Devices, Media/GIF Encoding [Link to Repository](https://github.com/Shawaty/community)
+
+
 
 ## 📓 What Am I Doing Right Now?
 - Finishing my undergraduate at UNCC
