@@ -1,33 +1,44 @@
-# Hi there! My name is Dylan Nashawaty 💫
+# Hi there! My name is Dylan Nashawaty 
 
-Hello! My name is Dylan Nashawaty and I am a senior college student studying at the **Univeristy of North Carolina at Charlotte**, working to wrap up my final semester. I am an aspiring computer scientist who is passionate about general software development, computer architecture, network architecture, and more. 
+Hello! My name is Dylan Nashawaty and I am a **University of North Carolina at Charlotte** alumni, working to find a full-time job. I am an aspiring computer scientist who is passionate about general software development, computer architecture, network architecture, and more. 
 
 ## 👋 About Me
 - Employment History:
   - IT Intern with ACO Medical Supply (Present)
   - Marketing & Content Lead with ACO Medical Supply (Present)
+  - Business Development Specialist with Omni Medical Supply (Present)
+  - Technological Marketing Specialist with Efficiently Connected (Present)
   - Multimedia Designer for Efficiently Connected (2018, Contract)
 - Academic Focus:
-  - Majoring in Computer Science with a concentration in Information Technology
-  - Working towards a minor in Statistics
+  - Majored in Computer Science with a concentration in Information Technology
+  - Minored in Statistics
 - Interests
   - Computer Architecture
   - FOSS
-  - AI Models
+  - AI Models & Development
   - Network Structuring
   - Multi-Server Hosting
 - Programming Languages (ordered by proficiency)
   - C, C#, C++
+  - React.js
+  - HTML, CSS, JavaScript
   - Java
   - Python
   - SQL
   - SAS
   - Starlark
-  - HTML, CSS, JavaScript
 
-I like to consider myself to be an inspired individual, who is energetic about new and developing technologies that will make a greater impact on the world. I prioritize a focused learning apprach to these topics, and as a maturing information technologist, my goal is to grasp and understand the newest advancements in computer hardware, architecture, software, multimedia, entertainment, and more.
+I'm an inspired individual, who is energetic about new and developing technologies that will make a greater impact on the world. I prioritize a focused learning apprach to these topics, and as a maturing information technologist, my goal is to grasp and understand the newest advancements in computer hardware, architecture, software, multimedia, entertainment, and more.
 
 ## 🎖️ Featured Projects
+
+## Project Title: SymNote 📝
+#### Description: 
+In this capstone project, I worked with a team of students, all in our final semester of college, to develop a mathematical note taking application focused on providing an intuitive user experience. The app is aimed at simplifying the writing and insertion of complex symbols into an easy-to-read documented format. While the app left much room for improvement after the semester ended, it still represents a significant leap in my understanding of web apps, project deployment, and the utilization of hosting tools like Vercel.
+
+#### Study of:
+React.js, Tailwind.css, Next.js, LaTeX, MongoDB, Vercel, JavaScript, CSS, and HTML
+
 
 ## Project Title: Multimedia Server Hosting 📽️
 #### Description: 
@@ -41,7 +52,7 @@ Windows, Wireshark, RDP, TCP & UDP, Network Configuration, Network Ports
 To aid in maintenance for the multimedia server, I built and configured a personal VPN to provide access to the network hosting the server. This VPN provides the ability to monitor and access data that would normally only be visible on the local network that hosts the server.
 
 ### Study of:
-Arduino, Raspberry Pi, Raspbian, Linux, Wireguard, Wireshark  
+Raspberry Pi, Pi OS, Linux, Wireguard, Wireshark  
       
 ## Project Title: Dancing Isaac 🕺
 #### Description:
@@ -53,9 +64,9 @@ Starlark, Tidbyt, IoT Devices, Media/GIF Encoding [Link to Repository](https://g
 
 
 ## 📓 What Am I Doing Right Now?
-- Finishing my undergraduate at UNCC
-- Looking for employment in networking, software development, cybersecurity, and data analysis.
-- Researching the linux operating system (I use arch btw :) )
+- Looking for a full time job in networking, software development, cybersecurity, and data analysis.
+- Researching linux environments, use-cases, and when each distro is appropriate to use
+- Studying certifications in AWS & CompTIA
 
 ## 🎯 Goals
 - Become a full-time FOSS developer
@@ -63,7 +74,6 @@ Starlark, Tidbyt, IoT Devices, Media/GIF Encoding [Link to Repository](https://g
 - Help others understand the basics of computer architecture and programming.
 
 ## 👤 Contact
-- Student Email: [dnashawa@uncc.edu](mailto:dnashawa@uncc.edu)
 - Personal Email: [dnashawaty@gmail.com](mailto:dnashawaty@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/dylannashawaty/](https://www.linkedin.com/in/dylannashawaty/)
 
