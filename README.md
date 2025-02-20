@@ -39,6 +39,9 @@ In this capstone project, I worked with a team of students, all in our final sem
 #### Study of:
 React.js, Tailwind.css, Next.js, LaTeX, MongoDB, Vercel, JavaScript, CSS, and HTML
 
+#### Relevant Links:
+- [SymNote Repository](https://github.com/colbydl/symnote)
+- [Web Server](https://sym-note.vercel.app/)
 
 ## Project Title: Multimedia Server Hosting 📽️
 #### Description: 
